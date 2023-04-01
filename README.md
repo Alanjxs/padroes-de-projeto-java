@@ -1,2 +1,3 @@
-### Padrões de Projeto em JAVA
+# Padrões de Projeto em JAVA
 
+##Singleton
